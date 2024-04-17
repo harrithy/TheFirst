@@ -33,7 +33,24 @@
     align-items: center;
 
 }
-
+.container1{
+    height: 40px;
+}
+.container2{
+    display: flex;
+    padding-left: 0;
+}
+ul{
+    list-style-type: none;
+}
+li{
+    float: left;
+    margin-left: 16px;
+    margin-right: 16px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    color: #DDD;
+}
 .imgclass{
     height: 38px;
     width: 140px;
