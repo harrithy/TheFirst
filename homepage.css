@@ -1,0 +1,44 @@
+.bodycss{
+    margin-top: 0;
+    margin-left: 0;
+    margin-right: 0;
+    background-color: #606061;
+}
+.fromheader{
+    background-color: #343a40;
+    width: 100%;
+    height: 72px;
+
+}
+.noticecss{
+    margin-top: 8px;
+    margin-bottom: 8px;
+    width: 100%;
+    height: 54.6px;
+}
+.noticecss1{
+    border-radius: 5px;
+    color: red;
+    font-size: 14px;
+    width: 1116px;
+    height: 38.6px;
+    margin: auto !important;
+    text-align: center;
+    background-color: #343a40;
+}
+.noticecss2{
+    padding: 8px;
+}
+.a1{
+    color: #F8F9Fa;
+    text-decoration: none;
+
+}
+.foot_content_wrapper{
+    font-size: 14px;
+    text-align: center;
+    color:#DDD;
+}
+.hover-text{
+    color: red;
+}
