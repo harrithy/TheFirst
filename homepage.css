@@ -49,12 +49,48 @@ li{
     margin-right: 16px;
     padding-top: 8px;
     padding-bottom: 8px;
-    color: #DDD;
+    color: white;
 }
 .imgclass{
     height: 38px;
     width: 140px;
     
+}
+.container3{
+    margin-left: 150px;
+    /* text-align: center;
+    justify-self: center; */
+   
+
+}
+.sousuokuang{
+    height: 24px;
+    border-radius: 5px 0 0 5px;
+    
+    border: solid #DDD;
+    border-right: none;
+}
+.button1{
+    text-align: center;
+    height: 20px;
+    margin: auto;
+    float: right;
+}
+.tubiao{
+    
+  
+    border: solid #DDD;
+    border-left: none;
+    border-radius: 0 5px 5px 0;
+    height: 30.5px;
+    margin: auto;
+    margin-top: 0;
+    text-align: center;
+
+}
+.button2{
+    opacity: 0.5;
+
 }
 .noticecss{
     margin-top: 8px;
